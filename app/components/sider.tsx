@@ -38,7 +38,7 @@ export default function AnchorTemporaryDrawer({
     <Box role="presentation">
       <Box bgcolor={blue[600]} p={2}>
         <Typography variant="h6" color="white">
-          Dashboard
+          Account Management System
         </Typography>
       </Box>
       <List>
